@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AquaService</string>
+    <string name="name">Nombre del usuario</string>
+    <string name="lastname">Apellido del usuario</string>
+    <string name="email">Email del usuario</string>
+    <string name="btnAdd">Agregar</string>
+    <string name="btnPrev">Regresar</string>
+
+    <!--  Tarea  -->
+    <string name="hint_tarea_cod_vivienda">358</string>
+    <string name="hint_tarea_direccion">Centenario</string>
+    <string name="hint_tarea_manzana">ejemplo: 40A</string>
+    <string name="hint_tarea_villa">ejemplo: 50</string>
+    <string name="hint_tarea_cod_medidor">ejemplo: 845-488-985</string>
+    <string name="hint_tarea_gps_empleado">ejemplo: N°541512 S°-98798451</string>
+
+
+</resources>
